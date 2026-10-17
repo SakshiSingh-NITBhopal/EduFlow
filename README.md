@@ -1,4 +1,4 @@
-# MERN E-Learning Platform
+# EduFlow(MERN E-Learning Platform)
 
 A full-stack e-learning application built with the MERN stack (MongoDB, Express, React, Node.js). Users can browse courses, enroll via Razorpay payments, watch lectures, and track progress. Admins can manage courses and users, and a superadmin can control roles.
 
