@@ -12,7 +12,7 @@ const Footer = () => {
       <div className="footer-content">
         <p>
           &copy; 2024 Your E-Learning Platform. All rights reserved. <br /> Made
-          with ❤️ <a href="">Prashant Kumar</a>
+          with ❤️ <a href="">Sakshi Singh</a>
         </p>
         <div className="social-links">
           <a href="">
